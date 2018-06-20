@@ -4,7 +4,7 @@ description: This is a repository of bitly APIs, self-contained as a Github repo
   with HTML and YAML representations of the APIs and their surrounding operations.
 image: http://template.streamdata.gallery/assets/bitly.png
 created: "2018-02-24"
-modified: "2018-06-19"
+modified: "2018-06-20"
 url: http://bitly.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
